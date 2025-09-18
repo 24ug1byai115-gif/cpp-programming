@@ -8,7 +8,7 @@ From this class derive two classes:
 - `Tape`, which add playing time in minutes (type float). 
 
 Each of these three classes should have: 
-- `getdata() function to display its data 
+- `getdata()` function to display its data 
 - `setdata()` function to get its data from the user at the keyboard.
 
 Write a main() program to test the Book and Tape classes by creating instances of them, asking the user to fill with data with `setdata()`, and then displaying the data with `getdata()`.
